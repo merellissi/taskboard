@@ -44,4 +44,4 @@ git clone https://github.com/merellissi/taskboard.git
 
 ## Скріншот
 
-![alt text](screenshot.png)
+<img width="900" height="480" alt="screenshot" src="https://github.com/user-attachments/assets/142a6313-d476-4b80-a266-8599ef8aded8" />
