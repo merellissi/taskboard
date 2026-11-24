@@ -45,3 +45,7 @@ git clone https://github.com/merellissi/taskboard.git
 ## Скріншот
 
 ![alt text](screenshot.png)
+
+## Демо
+
+[Відкрити сайт](https://merellissi.github.io/taskboard/)
